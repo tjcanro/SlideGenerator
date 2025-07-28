@@ -172,9 +172,9 @@ class SlideGeneratorApp {
             const response = await fetch(this.API_URL, {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/json',
+                    'Content-Type': 'text/plain',
                 },
-                body: JSON.stringify({ prompt: prompt })
+                body: prompt
             });
             
             console.log('Response status:', response.status);
