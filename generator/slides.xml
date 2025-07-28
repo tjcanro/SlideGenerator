@@ -1,0 +1,17 @@
+<slides>
+    <slide>
+        <title>Welcome to the AI Agent Demo</title>
+        <content>
+            <point>This slide auto-built from XML.</point>
+            <point>Fast, flexible, and easy to extend.</point>
+        </content>
+    </slide>
+    <slide>
+        <title>How It Works</title>
+        <content>
+            <point>Step 1: Parse XML</point>
+            <point>Step 2: Build slides with python-pptx</point>
+            <point>Step 3: Save your final deck</point>
+        </content>
+    </slide>
+</slides>
